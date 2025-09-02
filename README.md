@@ -1,3 +1,3 @@
 # test
 Baller 
-det her er fucking lit
+det her er lit
